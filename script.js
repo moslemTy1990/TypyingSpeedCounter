@@ -68,3 +68,8 @@ testArea.value= "";
 testArea.addEventListener("keypress", start, false);
 testArea.addEventListener("keyup", spellCheck, false);
 resetButton.addEventListener("click", reset, false);
+
+//TODO number of words per minute
+//TODO number of wrong words
+//TODO Dynamic test in the text area.
+//TODO fix Issue Dynamic test in the text area.
